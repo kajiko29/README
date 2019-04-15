@@ -13,17 +13,18 @@
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  background: blue;
+  background: #FAEAC0;
+  text-align: center;
 }
 
 .result p {
-  color: white;
+  color: #6D5C55;
   font-size: 30px;
 }
 
 .btn {
   width: 200px;
-  background: red;
+  background: #F03C61;
   color: white;
   border-radius: 13px;
   line-height: 40px;
